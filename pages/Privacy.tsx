@@ -40,13 +40,13 @@ const Privacy: React.FC = () => {
           </h2>
           <ul className="space-y-1.5 font-mono text-xs sm:text-sm text-zinc-300 mb-4 bg-black/40 p-4 border border-[var(--border)]">
             <li><strong>Service name:</strong> PromptMaster</li>
-            <li><strong>Operator / Data Fiduciary / Controller:</strong> [Your full legal name or registered business name]</li>
-            <li><strong>Website:</strong> [https://your-domain.example]</li>
-            <li><strong>Contact email:</strong> [privacy@your-domain.example]</li>
-            <li><strong>Business address:</strong> [Your business address, city, state, country]</li>
+            <li><strong>Operator / Data Fiduciary / Controller:</strong> Sai Srikiran J</li>
+            <li><strong>Website:</strong> <a href="https://saisrikiran25-ctrl.github.io/Portfolio-Website/" target="_blank" rel="noreferrer" className="text-[var(--accent)] hover:underline">https://saisrikiran25-ctrl.github.io/Portfolio-Website/</a></li>
+            <li><strong>Contact email:</strong> <a href="mailto:jandhyala.saisrikiran25@iimb.ac.in" className="text-[var(--accent)] hover:underline">jandhyala.saisrikiran25@iimb.ac.in</a></li>
+            <li><strong>Business address:</strong> Mumbai, Maharashtra</li>
           </ul>
           <p>
-            For questions, privacy requests, consent withdrawal, or complaints regarding this Privacy Policy or our processing of personal data, contact us at <strong>[privacy@your-domain.example]</strong>.
+            For questions, privacy requests, consent withdrawal, or complaints regarding this Privacy Policy or our processing of personal data, contact us at <a href="mailto:jandhyala.saisrikiran25@iimb.ac.in" className="text-[var(--accent)] font-semibold hover:underline">jandhyala.saisrikiran25@iimb.ac.in</a>.
           </p>
         </section>
 
@@ -431,11 +431,11 @@ const Privacy: React.FC = () => {
             For privacy questions, requests to exercise your rights, withdrawal of consent, data-deletion requests, or grievances, contact:
           </p>
           <ul className="space-y-1.5 font-mono text-xs sm:text-sm text-zinc-300 mb-4 bg-black/40 p-4 border border-[var(--border)]">
-            <li><strong>[Your full legal name or business name]</strong></li>
-            <li><strong>Email:</strong> [privacy@your-domain.example]</li>
-            <li><strong>Address:</strong> [Your business address, city, state, country]</li>
-            <li><strong>Grievance contact / Data Protection contact:</strong> [Name or role, if applicable]</li>
-            <li><strong>Response target:</strong> We aim to respond within [30] days, or within the period required by applicable law.</li>
+            <li><strong>Sai Srikiran J</strong></li>
+            <li><strong>Email:</strong> <a href="mailto:jandhyala.saisrikiran25@iimb.ac.in" className="text-[var(--accent)] hover:underline">jandhyala.saisrikiran25@iimb.ac.in</a></li>
+            <li><strong>Address:</strong> Mumbai, Maharashtra</li>
+            <li><strong>Grievance contact / Data Protection contact:</strong> Sai Srikiran J</li>
+            <li><strong>Response target:</strong> We aim to respond within 30 days, or within the period required by applicable law.</li>
           </ul>
           <p>
             If you are dissatisfied with our response, you may have the right to complain to the relevant data-protection authority in your jurisdiction.
