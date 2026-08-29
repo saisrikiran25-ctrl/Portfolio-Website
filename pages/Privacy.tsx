@@ -13,8 +13,8 @@ const Privacy: React.FC = () => {
           Privacy Policy — PromptMaster
         </h1>
         <div className="flex flex-wrap gap-6 font-mono text-xs text-[var(--muted)]">
-          <div><strong className="text-zinc-400">Effective date:</strong> [DD Month YYYY]</div>
-          <div><strong className="text-zinc-400">Last updated:</strong> [DD Month YYYY]</div>
+          <div><strong className="text-zinc-400">Effective date:</strong> 29-08-2026</div>
+          <div><strong className="text-zinc-400">Last updated:</strong> 29-08-2026</div>
         </div>
       </div>
 
